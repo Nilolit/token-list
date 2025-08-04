@@ -4,9 +4,18 @@
   "symbol": "DPOOP",
   "name": "Diamond Poop",
   "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/TUO-USERNAME/token-list/main/assets/7v8WHm2tsiyNJEb1CRpSmkDpGMbpCeCJyxfUZXZnpump/logo.png"
-  "tags": ["meme" "norugpull" "grow" "tothemoon"]
-  "twitter": "https://x.com/TheCalmHippo",
+  "logoURI": "https://raw.githubusercontent.com/TUO-USERNAME/token-list/main/assets/7v8WHm2tsiyNJEb1CRpSmkDpGMbpCeCJyxfUZXZnpump/logo.png",
+  "tags": [
+    "meme",
+    "norugpull",
+    "grow",
+    "tothemoon"
+  ],
+  "extensions": {
+    "twitter": "https://x.com/TheCalmHippo"
+  }
+}
+
 
 
 
